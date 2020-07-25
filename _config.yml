@@ -1,0 +1,7 @@
+theme: jekyll-theme-minimal
+title: momox
+logo: assets/img/Momox_logo.svg
+show_downloads: false
+include:
+    - .htaccess
+    - CODE_OF_CONDUCT.md
