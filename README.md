@@ -24,6 +24,28 @@ We take great pride in providing a workspace and atmosphere that is productive a
 for everyone. Therefore, the following [code of conduct](CODE_OF_CONDUCT.md) apply to
 all our public repositories, office interactions and social events.
 
+#### Diversity
+
+Momox has signed the ["Chara der Vielfalt"](https://www.charta-der-vielfalt.de/en/)
+and actively promotes the recognition, appreciation and integration of diversity.
+
+Our "momoxians" have roots in more than 60 nations. Momox lives the Diversity Day every
+day. During remote working we offer different language courses:
+
+ * Armenian
+ * Tamil
+ * Greek
+ * Arabic
+ * Kurdish
+ * Sign Language
+ * and may more …
+
+Furthermore, we would like to celebrate Eid with our Muslim momoxians and on 26.05.
+we offer our colleagues in logistics a delicious choice of food from Syria,
+Afghanistan and Eritrea. To make the diversity already lived at momox visible
+internally and externally, we also have regular activities outside this action
+week/independent of the DDT (German Diversity Day).
+
 #### Open-Source
 
 Much of our work is builds on free software. We are dedicated to contribute our share.
